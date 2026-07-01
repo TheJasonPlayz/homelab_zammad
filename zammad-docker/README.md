@@ -1,3 +1,9 @@
+# NOTICE
+This is the main README.md used by the [actual Zammad repo](https://github.com/zammad/zammad). To run the Docker stack, just:
+1. Copy `.env.example` to `.env`
+2. Fill out the new `.env` file with your own values
+3. Run `python ./manage.py -a up ./zammad-docker`
+
 # Welcome to Zammad
 
 Are you juggling countless customer inquiries across multiple channels?
