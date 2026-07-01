@@ -41,10 +41,6 @@ SLA Policy Design · Business Process Automation (Triggers) · Organizational Da
 Canned Response / Knowledge Base Creation · IT Service Management (ITSM) Fundamentals · 
 NGINX Reverse Proxy Configuration · Cloudflare Tunnel · REST API Usage (cURL) · SSL/TLS Configuration
 
-## What's Next
-- Integrate with Active Directory for authentication
-- Set up an email server and integrate for an email-to-ticket pipeline
-
 ## Screenshots
 - ![Users](./screenshots/zammad_users.png)
 - ![Groups](./screenshots/zammad_groups.png)
@@ -52,5 +48,9 @@ NGINX Reverse Proxy Configuration · Cloudflare Tunnel · REST API Usage (cURL) 
 - ![Organizations](./screenshots/zammad_orgs.png)
 - ![Template](./screenshots/zammad_help-template.png)
 - ![Ticket Tags](./screenshots/zammad_ticket-tags.png)
-- ![SLA Polciies](./screenshots/zammad_sla-policies.png)
+- ![SLA Policies](./screenshots/zammad_sla-policies.png)
 - ![Escalation Trigger](./screenshots/zammad_escalation-trigger.png)
+
+## What's Next
+- Integrate with Active Directory for authentication
+- Set up an email server and integrate for an email-to-ticket pipeline
