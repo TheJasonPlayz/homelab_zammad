@@ -12,6 +12,7 @@ just putting up the stack, but when integrations with many services fail, findin
 - Host: Windows 11. Ryzen 5 3600X, AMD RX 590, 32GB DDR4 @2667Mhz RAM. VMWare Workstation 
 - Container: Using Docker *within* the VMWare Workstation VM to deploy a containerized stack for Zammad along with a Python script to easily manage other Docker containers I use.
 - Networking: To access the Docker stack, I use a Cloudflare Tunnel setup to access the local Docker network from anywhere I am. The docker stack also has an NGINX reverse proxy to handle requests to multiple services that integrate with Zammad.
+- `manage.py`: In the repository, you will see a `manage.py` file. This is a python script I use also in my local homelab to manage docker containers much easier. 
 
 
 ## What I Built
