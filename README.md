@@ -45,7 +45,6 @@ NGINX Reverse Proxy Configuration · Cloudflare Tunnel · REST API Usage (cURL) 
 - Set up an email server and integrate for an email-to-ticket pipeline
 
 ## Screenshots
-[You already have these — Users, Groups, Roles, Organizations, Templates, Tags, SLA policies, Trigger config]
 - ![Users](./screenshots/zammad_users.png)
 - ![Groups](./screenshots/zammad_groups.png)
 - ![Roles](./screenshots/zammad_roles.png)
